@@ -1,3 +1,14 @@
+"""
+Market Simulator v1
+Author: Kaushiki Shukla
+Date: May 2025
+
+Simulates a basic market with random buyers and sellers.
+Trades are executed when buyer price ≥ seller price.
+Generates price and volume plots over time.
+"""
+
+
 import random
 import matplotlib.pyplot as plt
 
