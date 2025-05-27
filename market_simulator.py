@@ -10,7 +10,7 @@ Generates price and volume plots over time.
 
 
 import random
-import matplotlib.pyplot as plt
+import matplotlib as plt
 
 # --- CONFIGURATION ---
 NUM_TRADES = 100          # Number of simulated trades
