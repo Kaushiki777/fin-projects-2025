@@ -5,14 +5,26 @@ This repository contains a collection of projects I'm building in Summer 2025 as
 ---
 🔥 Project List
 
-| Project Name                               | Description 
+Projects
 
-| 📈 Market Simulator v1:                     A basic simulation of a buyer-seller market using random limit/market orders. Visualizes price and volume over time. 
-| 📊 Volatility Heatmap :                     Real-time volatility tracker using financial data from Yahoo Finance. Highlights periods of price instability. 
-| ⚙️ Order Matching Engine:                   Core engine mimicking how trades are matched in a central limit order book (CLOB). 
-| 🔁 Stat Arb Backtester  :                   Statistical arbitrage model using z-score thresholds for entry/exit. Visualizes returns, drawdown, and Sharpe ratio. 
-| 🧠 Microstructure Notebook Series:          Jupyter notebooks documenting key concepts from market microstructure, with visual and code-based explanations. 
+📈 Market Simulator v1: A basic simulation of a buyer-seller market using random limit/market orders. Visualizes price and volume over time. 
 
+ 
+ 📊 Volatility Heatmap : Real-time volatility tracker using financial data from Yahoo Finance. Highlights periods of price instability. 
+
+ 
+ ⚙️ Order Matching Engine: Core engine mimicking how trades are matched in a central limit order book (CLOB). 
+
+ 
+ 🔁 Stat Arb Backtester  :Statistical arbitrage model using z-score thresholds for entry/exit. Visualizes returns, drawdown, and Sharpe ratio. 
+
+
+ 
+🧠 Microstructure Notebook Series: Jupyter notebooks documenting key concepts from market microstructure, with visual and code-based explanations. 
+
+
+ 
+ 
  🛠️ Technologies Used
 
 - Python (NumPy, Pandas, Matplotlib, Plotly)
