@@ -5,7 +5,6 @@ This repository contains a collection of projects I'm building in Summer 2025 as
 ---
 🔥 Project List
 
-Projects
 
 📈 Market Simulator v1: A basic simulation of a buyer-seller market using random limit/market orders. Visualizes price and volume over time. 
 
