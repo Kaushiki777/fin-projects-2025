@@ -40,14 +40,6 @@ This repository contains a collection of projects I'm building in Summer 2025 as
 
 ---
 
- 🧠 Upcoming Projects
-
--  Add Limt Order Book replay model from real market data
--  Explore latency arbitrage visualization
--  Participate in a Kaggle finance challenge
--  Begin a personal blog on quant and code topics
-
----
 
 📫 Reach me out here:
 
